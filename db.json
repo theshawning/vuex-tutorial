@@ -71,6 +71,34 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 8820630,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Working",
+      "description": "Is this owrking",
+      "location": "Home",
+      "date": "2020-05-07T12:02:00.000Z",
+      "time": "19:00",
+      "attendees": []
+    },
+    {
+      "id": 129341,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "thiehe",
+      "description": "dhshen",
+      "location": "erwer",
+      "date": "2020-05-07T12:07:00.000Z",
+      "time": "12:00",
+      "attendees": []
     }
   ]
 }
