@@ -127,6 +127,118 @@
       "date": "2020-06-18T13:16:00.000Z",
       "time": "12:00",
       "attendees": []
+    },
+    {
+      "id": 2805702,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Teaching kids to read good",
+      "description": "Title says it all",
+      "location": "school",
+      "date": "2020-05-05T15:51:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 1903793,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "asdasd",
+      "description": "sjhehd",
+      "location": "home",
+      "date": "2020-05-06T16:00:00.000Z",
+      "time": "5:00",
+      "attendees": []
+    },
+    {
+      "id": 7666026,
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6567288,
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 9001438,
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "dasd",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5109431,
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 9399728,
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "asd",
+      "date": "2020-05-06T16:08:00.000Z",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6448740,
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "dasd",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
