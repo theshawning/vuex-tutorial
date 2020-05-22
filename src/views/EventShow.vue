@@ -33,9 +33,12 @@ import { mapState } from "vuex";
 export default {
   props: ["id"],
   created() {
-    this.$store.dispatch("fetchEvent", this.id);
+    this.fetchEvent(this.id);
   },
-  computed: mapState(["event"])
+  computed: mapState({
+    event: state => state.event.event
+  }),
+  methods: mapActions("event", ["fetchEvent"])
 };
 </script>
 <style scoped>
