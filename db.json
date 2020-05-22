@@ -99,6 +99,34 @@
       "date": "2020-05-07T12:07:00.000Z",
       "time": "12:00",
       "attendees": []
+    },
+    {
+      "id": 5406928,
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "House Building for Neighborhoods",
+      "description": "Helping people in need by building houses",
+      "location": "123 Avenue Lane, SA, TX",
+      "date": "2020-05-14T14:15:00.000Z",
+      "time": "10:00",
+      "attendees": []
+    },
+    {
+      "id": 6708323,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Spay/Neuter Cats & Dogs",
+      "description": "Bring in your pets for FREE spaying and neutering",
+      "location": "Petsmart",
+      "date": "2020-06-18T13:16:00.000Z",
+      "time": "12:00",
+      "attendees": []
     }
   ]
 }
